@@ -1,7 +1,10 @@
 h1 {
-    color: blueviolet;
     font-family: 'Goldman', cursive;
-    border: 2px solid;
+}
+
+.container {
+    display: inline-block;
+    margin-top: 2rem;
 }
 
 .text {
@@ -14,5 +17,11 @@ h1 {
     margin: 2em;
     width: 300px;
 }
+
+.card {
+    width: 18rem;
+}
+
+
 
 
