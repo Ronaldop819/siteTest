@@ -1,0 +1,18 @@
+h1 {
+    color: blueviolet;
+    font-family: 'Goldman', cursive;
+    border: 2px solid;
+}
+
+.text {
+    font-family: 'Goldman', cursive;
+    font-size: 20px;
+    margin: 2em;
+}
+
+.img-Js, .img-html, .img-css {
+    margin: 2em;
+    width: 300px;
+}
+
+
