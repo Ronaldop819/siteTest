@@ -1,25 +1,14 @@
-h1 {
-    font-family: 'Goldman', cursive;
+.masthead-brand, .nav,
+.title {
+    font-family: 'Satisfy', cursive;
 }
 
-.container {
-    display: inline-block;
-    margin-top: 2rem;
-}
-
-.text {
-    font-family: 'Goldman', cursive;
+.nav {
     font-size: 20px;
-    margin: 2em;
 }
 
-.img-Js, .img-html, .img-css {
-    margin: 2em;
-    width: 300px;
-}
-
-.card {
-    width: 18rem;
+.img-pencil {
+    width: 27px;
 }
 
 
